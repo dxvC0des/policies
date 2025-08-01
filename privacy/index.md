@@ -72,10 +72,6 @@ No employee here at our company looks at your content except for limited purpose
 
 * Preservation requests. Similarly, 37signals’ policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not disclose preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
 
-* If we are audited by a tax authority, we may be required to disclose billing-related information. If that happens, we will disclose only the minimum needed, such as billing addresses and tax exemption information.
-
-Finally, if 37signals is acquired by or merges with another company — we don’t plan on that, but if it happens — we’ll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
-
 ## Your rights with respect to your information
 
 At 37signals, we strive to apply the same data rights to all customers, regardless of their location. Some of these rights include:
@@ -124,14 +120,8 @@ We keep your information for the time necessary for the purposes for which it is
 
 Our products and other web properties are operated in the United States. If you are located in the European Union, UK, or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our websites or Services and/or providing us with your personal information, you consent to this transfer.
 
-## When transferring personal data from the EU
-
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, 37signals has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. 37signals’ DPA is available at [https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf](https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf).
-
-There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with 37signals operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
-
 ## Changes and questions
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@37signals.com](mailto:privacy@37signals.com) and we’ll be happy to try to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [legal@refractedsmp.net](mailto:legal@refractedsmp.net) and we’ll be happy to try to answer them!
