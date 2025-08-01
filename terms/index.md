@@ -53,6 +53,7 @@ If you violate any of the Terms, we may terminate your account, restrict access 
 
 1. You give us a limited license to use the content posted by you and your users in order to provide the Services to you, but we claim no ownership rights over those materials. All materials you submit to the Services remain yours.
 2. The Company or its licensors own all right, title, and interest in and to the Services, including all intellectual property rights therein, and you obtain no ownership rights in the Services as a result of your use. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logos or any Service logos for commercial purposes. Please [email us](legal@refractedsmp.net) requests to use logos. We reserve the right to rescind any permissions if you violate these Terms.
+3. When requesting a world or the server file. Please follow our rules and regulations at https://wiki.refractedsmp.net/rules/worldrules
 
 ## Features and Bugs
 
