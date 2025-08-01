@@ -52,7 +52,7 @@ A cookie is a piece of text stored by your browser. It may help remember login i
 
 ## When we access or disclose your information
 
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use at **[https://refractedsmp.net/legal/data-sharing](https://refractedsmp.net/legal/data-sharing).
+**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use at [**https://refractedsmp.net/legal/data-sharing**](https://refractedsmp.net/legal/data-sharing).
 
 We may disclose your information at your direction if you integrate a third-party service into your use of our products. For example, we may allow you, at your option, to connect your Gmail account to your account so that you can use your google account to login to your myDash dashboard.
 
