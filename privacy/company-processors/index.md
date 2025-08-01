@@ -6,3 +6,5 @@ The following company shares your data with us to use myDash and all RefractedSM
 
 * [Discord](https://discord.com/privacy). - Authentication OAuth Service. We use this to log you into myDash.
 * [Google](https://policies.google.com/privacy) - Authentication OAuth Service. We use this to log you into myDash (If you connected your account) + Application Forms.
+* [WordPress](https://wordpress.org/about/privacy) - Website Designing. We use this to help develop the website.
+* [reCaptcha](https://developers.google.com/recaptcha) - Bot Spam Prevention. We use this to help safeguard bots.
