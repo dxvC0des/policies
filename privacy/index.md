@@ -5,32 +5,29 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: April 20, 2023*
+*Last updated: August 01 2025*
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
 
 This policy is split into sections. For your convenience, links to each of those sections is as follows:
 
-* [Privacy policy](#privacy-policy)
-* [What we collect and why](#what-we-collect-and-why)
-* [When we access or disclose your information](#when-we-access-or-disclose-your-information)
-* [Your rights with respect to your information](#your-rights-with-respect-to-your-information)
-* [How we secure your data](#how-we-secure-your-data)
-* [What happens when you delete content in your product accounts](#what-happens-when-you-delete-content-in-your-product-accounts)
-* [Data retention](#data-retention)
-* [Location of site and data](#location-of-site-and-data)
-* [When transferring personal data from the EU](#when-transferring-personal-data-from-the-eu)
-* [Changes and questions](#changes-and-questions)
+* Privacy policy
+* What we collect and why
+* When we access or disclose your information
+  Your rights with respect to your information
+* How we secure your data
+* Data retention
+* Location of site and data
+* Changes and questions
 
-This policy applies to all products built and maintained by 37signals LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard (together, "37signals"). If you are applying for a job at 37signals, please review our [Recruitment Privacy policy](recruitment/index.md).
 
-This policy applies to our handling of information about site visitors, prospective customers, and customers and authorized users (in relation to their procurement of the services and management of their relationship with 37signals). We refer collectively to these categories of individuals as "you" throughout this policy.
+This policy applies to our handling of information about site visitors, prospective customers, and customers and authorized users (in relation to their procurement of the services and management of their relationship with the RefractedSMP). We refer collectively to these categories of individuals as "you" throughout this policy.
 
-However, this policy does not cover information about a customer’s end users that 37signals receives from a customer, or otherwise processes on a customer’s behalf, in connection with the services provided by 37signals to the customer pursuant to an applicable services agreement (including the content of messages of customer end users ("End User Communications")). 37signals processes End User Communications under the instructions of the relevant customer, which is the "data controller" or "business" (or occupies a similar role as defined in applicable privacy laws), as described in the applicable services agreement between such customer and 37signals. 37signals’s obligations as a "data processor" or "service provider" with respect to such information are defined in such services agreement and applicable data protection addendum and are not made part of this policy.
+However, this policy does not cover information about a customer’s end users that RefractedSMP receives from a customer, or otherwise processes on a customer’s behalf, in connection with the services provided by the RefractedSMP to the customer pursuant to an applicable services agreement (including the content of messages of customer end users ("End User Communications")). RefractedSMP processes End User Communications under the instructions of the relevant customer, which is the "data controller" or "business" (or occupies a similar role as defined in applicable privacy laws), as described in the applicable services agreement between such customer and RefractedSMP. RefractedSMP’s obligations as a "data processor" or "service provider" with respect to such information are defined in such services agreement and applicable data protection addendum and are not made part of this policy.
 
 If you are a customer’s end user and you have questions about how your information is collected and processed through the services, please contact the organization who has provided your information to us for more information.
 
-If you are a California resident, please [click here to see our California Notice at Collection](regulations/ccpa/index.md), which includes additional disclosures as required by California law.
+If you are a California resident, please [click here to see our California Notice at Collection](https://RefractedSMP.net/legal/compliance/ccpca), which includes additional disclosures as required by California law.
 
 ## What we collect and why
 
@@ -38,63 +35,37 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 ### Identity and access
 
-When you sign up for a 37signals product, we ask for identifying information such as your name, email address, and maybe a company name. That’s so you can personalize your new account, and we can send you product updates and other essential information. We may also send you optional surveys from time to time to help us understand how you use our products and to make improvements. With your consent, we will send you our newsletter and other updates. We sometimes also give you the option to add a profile picture that displays in our products.
+When you sign in via your discord account, we use your discord ID, Profile Picture, and username so we can personalize your myDash or your dashboard. When applying via our google form link. We collect your email address, minecraft username, age, discord ID (Discord Identification Number), Social Media handles, etc. We use this information for you to track your application status via myDash and for us to send you emails about your application.
 
 We’ll never sell your personal information to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
-### Billing information
-
-If you sign up for a paid 37signals product, you will be asked to provide your payment information and billing address. Credit card information is submitted directly to our payment processor and doesn’t hit 37signals servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing, and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide our marketing efforts.
 
 ### Product interactions
 
-We store on our servers the content that you upload or receive or maintain in your 37signals product accounts. This is so you can use our products as intended, for example, to create projects in Basecamp or to receive email in HEY. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
+We store on our servers your discord ID, application code, etc. This is so you can use our products as intended. We keep this content as long as your account is active. If you request a deletation, we will delete it within 30 days of cancellation.
 
-### General Geolocation data
-
-For most of our products, we log the full IP address used to sign up a product account and retain that for use in mitigating future spammy signups. We also log all account access by full IP address for security and fraud prevention purposes, and we keep this login data for as long as your product account is active.
-
-### Website interactions
-
-We collect information about your browsing activity for analytics and statistical purposes such as conversion rate testing and experimenting with new product designs. This includes, for example, your browser and operating system versions, your IP address, which web pages you visited and how long they took to load, and which website referred you to us. If you have an account and are signed in, these web analytics data are tied to your IP address and user account until your account is no longer active. The web analytics we use are described further in the Advertising and Cookies section.
 
 ### Anti-bot assessments
 
-We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your 37signals accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides 37signals with the spam score results; we do not have access to the evaluated information.
+We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your RefractedSMP (myDash) accounts and when you fill in certain forms in your dashboard, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides RefractedSMP with the spam score results; we do not have access to the evaluated information.
 
-### Advertising and Cookies
-
-37signals runs contextual ads on various third-party platforms such as Google, Reddit, and LinkedIn. Users who click on one of our ads will be sent to the Basecamp marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
+### Cookies
 
 We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications, and perform A/B testing as well as support some analytics.
 
 A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings, although our apps won’t work and other aspects of our service may not function properly if you turn cookies off.
 
-### Voluntary correspondence
-
-When you email 37signals with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
-
-We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
-
-### How we approach mobile app permissions
-
-We offer optional desktop and mobile apps for some of our products. Because of how the platforms are designed, our apps typically must request your consent before accessing contacts, calendar, camera, and other privacy-sensitive features of your device. Consent is always optional and our apps will function without it, though some features may be unavailable. There are a few exceptions, for example:
-
-* Our iOS apps will ask for permission to use push notifications upon first sign-in.
-* Android apps do not require permission to send push notifications.
-* For our Basecamp 2 app on Android 5, the OS will prompt for permission upon installation to read and write to your device files so that you can select attachments from your device to upload to the app, and can download files from the app to your device.
-
 ## When we access or disclose your information
 
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](https://basecamp.com/about/policies/privacy/basecamp-subprocessors/), [HEY](https://basecamp.com/about/policies/privacy/hey-subprocessors/), [Highrise](https://basecamp.com/about/policies/privacy/highrise-subprocessors/), [Campfire](https://basecamp.com/about/policies/privacy/campfire-subprocessors/), [Backpack](https://basecamp.com/about/policies/privacy/backpack-subprocessors/). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](https://basecamp.com/about/policies/privacy/company-processors/).
+**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use at **[https://refractedsmp.net/legal/data-sharing](https://refractedsmp.net/legal/data-sharing).
 
-We may disclose your information at your direction if you integrate a third-party service into your use of our products. For example, we may allow you, at your option, to connect your Gmail account to your HEY account so that you can use HEY to receive and respond to your Gmail email. Email that you receive and respond to through HEY from your Gmail address will be stored by both HEY and Google and will be available to you from your Gmail account as well as your HEY account.
+We may disclose your information at your direction if you integrate a third-party service into your use of our products. For example, we may allow you, at your option, to connect your Gmail account to your account so that you can use your google account to login to your myDash dashboard.
 
-No 37signals human looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access your data if required in order to respond to legal process (see "When required under applicable law" below).
-
-**To exclude you from seeing our ads.** Where permissible by law and if you have a Basecamp account, we may disclose a one-way hash of your email address with ad companies to exclude you from seeing our ads.
+No employee here at our company looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access your data if required in order to respond to legal process (see "When required under applicable law" below).
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your content to help you with a support case, we will ask for your consent before proceeding.
+
+# Stopped here
 
 **To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
 
